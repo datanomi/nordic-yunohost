@@ -1,0 +1,20 @@
+{
+    "name": "Nordic",
+    "id": "nordic",
+    "packaging_format": 1,
+    "description": {
+        "en": "Nordic theme",
+        "fr": "Nordium theme"
+    },
+    "version": "0.9.5",
+    "url": "https://github.com/datanomi/nordic-yunohost",
+    "license": "AGPL-3.0",
+    "maintainer": {
+        "name": "Cumpal",
+        "email": "m@mha.fi"
+    },
+    "requirements": {
+        "yunohost": ">= 3.7.0.12",
+        "ssowat": ">= 3.7.0.12"
+    }
+}
